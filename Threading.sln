@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asynchronous Threading", "Threading\Threading.vcxproj", "{E42584CC-DB0F-4CDF-A6AC-20EC9BAEBF13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Synchronous Threading", "Project1\Project1.vcxproj", "{3E7E6E9A-44AA-4516-99E7-7287DE4D6776}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProducerConsumerParadigm", "ProducerConsumerParadigm\ProducerConsumerParadigm.vcxproj", "{598A6CF6-242C-45B2-B7A7-25998FE93620}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadLocalStorage", "ThreadLocalStorage\ThreadLocalStorage.vcxproj", "{D576FEC4-C255-40A9-BD88-A3AA098B9F73}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadAtomicity", "ThreadAtomicity\ThreadAtomicity.vcxproj", "{18CDF4DB-355B-487F-94A3-848C815F09C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42584CC-DB0F-4CDF-A6AC-20EC9BAEBF13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E42584CC-DB0F-4CDF-A6AC-20EC9BAEBF13}.Debug|Win32.Build.0 = Debug|Win32
+		{E42584CC-DB0F-4CDF-A6AC-20EC9BAEBF13}.Release|Win32.ActiveCfg = Release|Win32
+		{E42584CC-DB0F-4CDF-A6AC-20EC9BAEBF13}.Release|Win32.Build.0 = Release|Win32
+		{3E7E6E9A-44AA-4516-99E7-7287DE4D6776}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E7E6E9A-44AA-4516-99E7-7287DE4D6776}.Debug|Win32.Build.0 = Debug|Win32
+		{3E7E6E9A-44AA-4516-99E7-7287DE4D6776}.Release|Win32.ActiveCfg = Release|Win32
+		{3E7E6E9A-44AA-4516-99E7-7287DE4D6776}.Release|Win32.Build.0 = Release|Win32
+		{598A6CF6-242C-45B2-B7A7-25998FE93620}.Debug|Win32.ActiveCfg = Debug|Win32
+		{598A6CF6-242C-45B2-B7A7-25998FE93620}.Debug|Win32.Build.0 = Debug|Win32
+		{598A6CF6-242C-45B2-B7A7-25998FE93620}.Release|Win32.ActiveCfg = Release|Win32
+		{598A6CF6-242C-45B2-B7A7-25998FE93620}.Release|Win32.Build.0 = Release|Win32
+		{D576FEC4-C255-40A9-BD88-A3AA098B9F73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D576FEC4-C255-40A9-BD88-A3AA098B9F73}.Debug|Win32.Build.0 = Debug|Win32
+		{D576FEC4-C255-40A9-BD88-A3AA098B9F73}.Release|Win32.ActiveCfg = Release|Win32
+		{D576FEC4-C255-40A9-BD88-A3AA098B9F73}.Release|Win32.Build.0 = Release|Win32
+		{18CDF4DB-355B-487F-94A3-848C815F09C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18CDF4DB-355B-487F-94A3-848C815F09C6}.Debug|Win32.Build.0 = Debug|Win32
+		{18CDF4DB-355B-487F-94A3-848C815F09C6}.Release|Win32.ActiveCfg = Release|Win32
+		{18CDF4DB-355B-487F-94A3-848C815F09C6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
